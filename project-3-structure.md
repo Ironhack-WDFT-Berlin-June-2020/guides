@@ -20,6 +20,21 @@ $ npx create-react-app client
 $ rm -rf .git
 ```
 
+### Then we want to add git to the root folder of our project
+
+```bash
+$ git init
+```
+
+### And then make the first commit
+
+```bash
+$ git add .
+$ git commit -m 'initial commit'
+```
+
+### Then you go to GitHub, create a new repository for your project, copy the line 'git remote add origin ...' and push to master
+
 Now we have our basic project structure 
 
 Happy hacking 💙
