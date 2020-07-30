@@ -6,9 +6,11 @@
 
 * While doing them proceed as we trained, divide the problem into small steps, if you have problems doing that think about how you would solve the problem yourself (if the array would be a long list on a piece of paper etc.)
 
-* Read up all the theoretical stuff again (How the Internet works etc.)
+* Read up all the theoretical stuff again (How the Internet works etc.) - they could ask about it, it will not be the most important thing but it is good to have a basci understanding of the internet
 
-### Interview Questions (if you wanna practice some more) - they could ask about it, it will not be the most important thing but it is good to have a basci understanding of the internet
+
+
+### Interview Questions (if you wanna practice some more)
 
 https://github.com/yangshun/front-end-interview-handbook
 
